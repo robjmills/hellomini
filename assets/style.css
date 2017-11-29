@@ -1,16 +1,27 @@
 body{
   color: #696969;
+  /*background-color: #dad4b6;*/
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  /*font-family: Helvetica, sans-serif;*/
 }
 .content{
-  width: 80%;
+  /*width: 445px;
+  margin: 20px 0 20px 0;
+  background-color: white;*/
+  /*width: 80%;*/
   display: inline-block;
-  font-size: 18px;
+  font-size: 16px;
+  /*box-shadow: 0px 0px 20px #000000;
+  border:none 5px #000000;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;*/
 }
 
-p{
-  /*margin: 6px;*/
+.img-border{
+  border-radius:10px;
+  border:3px solid white;
 }
 
 a{
